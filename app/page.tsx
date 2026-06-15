@@ -16,7 +16,7 @@ const INITIAL_MODELS: ModelResponse[] = [
   { modelId: 'gpt', modelName: 'GPT-4o', response: '', status: 'mock', color: '#3B82F6' },
   { modelId: 'claude', modelName: 'Claude 3.5', response: '', status: 'mock', color: '#F97316' },
   { modelId: 'gemini', modelName: 'Gemini 1.5', response: '', status: 'mock', color: '#22C55E' },
-  { modelId: 'grok', modelName: 'Grok', response: '', status: 'mock', color: '#A855F7' },
+  { modelId: 'github', modelName: 'GitHub Models', response: '', status: 'mock', color: '#A855F7' },
 ]
 
 export default function HomePage() {

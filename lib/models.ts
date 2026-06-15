@@ -34,8 +34,8 @@ export const MODELS: ModelConfig[] = [
     adapter: googleAdapter,
   },
   {
-    id: 'grok',
-    name: 'Grok',
+    id: 'github',
+    name: 'GitHub Models',
     color: '#A855F7',
     status: process.env.GITHUB_TOKEN ? 'live' : 'mock',
     adapter: githubAdapter,
