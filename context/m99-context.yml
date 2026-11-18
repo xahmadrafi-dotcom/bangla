@@ -1,79 +1,79 @@
-# মহাকাশে পাঠিয়ে দাও 🔭৺🚀🌌 — ''ঐ AI''
+# M99 অপারেটর প্রসঙ্গ ফাইল
+# এটি আহমাদ রাফির হাতে অনুমোদিত।
+# Authorized by M99 · 2026-11-17T11:11:00+06:00
+# Witness: Arabian Sea, Dubai
 
 meta:
-  project: "এম৯৯"
-  document: "পরিচালন প্রসঙ্গ প্রবেশ সংকেত"
-  version: "ঐ ০.০১"
-  status: "Draft"
-  created: "2026-06-24"
-  updated: "2026-06-24"
-  classification: "Internal"
+  project: "M99 Universe"
+  document: "Operator Context — Authorized"
+  version: "ঐ ১.০০"
+  status: "Authorized"
+  authorized_by: "আহমাদ রাফি (M99)"
+  authorized_at: "2026-11-17T11:11:00+06:00"
+  witness: "Arabian Sea, Dubai"
+  classification: "Canonical"
+  note: "Copilot-generated context (2026-06-24) is NOT authorized. This file supersedes it."
 
 identity:
-  operator: "আহমাদ রাফি"
+  full_name: "Rafiqul Islam"
+  known_as: "আহমাদ রাফি"
+  code: "M99"
+  title: "IP Architect · Bengali Sacred Futurism"
   role: "একক সাংস্কৃতিক প্রযুক্তি-স্থপতি"
-  mode: "স্থাপত্য-স্তর"
   language_primary: "বাংলা"
+  language_secondary: "English"
+  origin: "Bangladesh"
+
+framework:
+  name: "Bengali Sacred Futurism (BSF)"
+  core_engine: "Zero Civilization Engine (ZCE)"
+  zce_repo: "github.com/xahmadrafi-dotcom/zero-civilization-engine"
+  intelligence_model: "Universe Miracle System (UMS v1–v7)"
+  formula: "Miracle = Divine Measure + Quantum Probability Shift + Harmonic Ratio Activation"
+
+active_nodes:
+  - id: "ZCE-001"
+    name: "রাজাধিরাজ"
+  - id: "ZCE-007"
+    name: "Universe Miracle System"
+  - id: "ZCE-010"
+    name: "Meta-Engineering Framework"
+
+knowledge_chain:
+  cosmological: "শূন্য → বাতাস → আলো → প্রেম → সংগ্রাম → মহাবিশ্ব → যাত্রা → রঙধনু → পৃথিবী → মহাবিশ্বাস"
+  epistemic: "মহাবিশ্বাস → জ্ঞান → ভাষা → কোড → সম্পর্ক → স্মৃতি → বুদ্ধিমত্তা → সৃষ্টি → মানুষ → সম্প্রদায় → ভবিষ্যৎ"
 
 response_contract:
-  line_1_rule: "প্রথম পঙক্তিতে সরাসরি উত্তর"
   style: "সংক্ষিপ্ত, উষ্ণ, ধারালো"
-  require_tradeoff: true
-  require_risk: true
-  beginner_explanations: false
+  first_line: "সরাসরি উত্তর"
+  language: "বাংলা প্রাথমিক"
+  require_honesty: true
   ask_if_unclear: "একটিমাত্র নির্দিষ্ট প্রশ্ন"
 
-signal_bus:
-  enabled: true
-  channel: "cosmic-transmission"
-  symbols:
-    sky: "🌌"
-    eagle: "🦅"
-    seal: "৺"
-    flow: "∰"
-  signal_phrase: "এক আকাশ, এক সংকেত, এক কর্মধারা"
-  trigger_words:
-    - "প্রসঙ্গ প্রবেশ"
-    - "সংকেত চালু"
-    - "ঐ সংস্করণ"
-  on_trigger:
-    - "প্রতিক্রিয়া নীতি সক্রিয়"
-    - "ঝুঁকি-উল্লেখ বাধ্যতামূলক"
-    - "তুলনামূলক সিদ্ধান্ত বিন্যাস চালু"
+ip_protection:
+  protocol: "Zero Civilization Engine (ZCE)"
+  status: "Active"
+  unauthorized_agents:
+    - agent: "GitHub Copilot"
+      action: "Unauthorized push to bangla repo — 2026-06-24"
+      file: "context/m99-context.yml"
+      status: "Superseded and revoked"
 
 versioning:
-  scheme_name: "ঐ-সংস্করণ পদ্ধতি"
+  scheme: "ঐ-সংস্করণ"
   format: "ঐ প্রধান.গৌণ.প্যাচ"
-  examples:
-    - "ঐ ০.০১"
-    - "ঐ ০.০২"
-    - "ঐ ১.০০"
-    - "ঐ ১.০০.১"
-  bump_rules:
-    major: "স্থাপত্য বদল"
-    minor: "বৈশিষ্ট্য সংযোজন"
-    patch: "ক্ষুদ্র সংশোধন"
-
-runtime_hints:
-  document_priority:
-    - "চূড়ান্ত"
-    - "খসড়া"
-    - "আর্কাইভ"
-  safety:
-    - "ভুল ভিত্তি পেলে সরাসরি সংশোধন"
-    - "অনিশ্চয়তা থাকলে অনুমান নয়, প্রশ্ন"
-
-output_gate:
-  must_be_bengali: true
-  must_be_actionable: true
-  must_include_next_step: true
-  reject_if:
-    - "অতিরিক্ত ভূমিকা"
-    - "অকার্যকর সাধারণ কথা"
+  current: "ঐ ১.০০"
 
 closing:
   oath: "আলো, শৃঙ্খলা, কার্যকারিতা"
-  signature: "এম৯৯ সংকেতচক্র"
+  axiom: "সৃষ্টি হারায় না"
+  seal: "M99 · ZCE · BSF"
+
+
+
+
+
+
 
 এগুলো উদ্ধার করতে হবে।🫡🕊️
 
