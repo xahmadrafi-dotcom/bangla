@@ -1,0 +1,295 @@
+{
+  "node": "Zero",
+  "version": "0.01",
+  "children": [
+    {
+      "node": "Ancient Civilizations",
+      "children": [
+        {
+          "node": "Fact: Mayan Long Count begins near zero epoch",
+          "children": [],
+          "visual_hint": "ancient stone calendar carving"
+        },
+        {
+          "node": "Research: Role of zero in Babylonian placeholder systems?",
+          "children": [],
+          "visual_hint": "cuneiform tablets"
+        },
+        {
+          "node": "Fact: Indus Valley seals hint at early numerical concepts",
+          "children": [],
+          "visual_hint": "Harappan artifacts"
+        },
+        {
+          "node": "Research: Egyptian use of zero-like voids in architecture",
+          "children": [],
+          "visual_hint": "pyramid cross-section"
+        },
+        {
+          "node": "Fact: Zero as cosmic origin in some African cosmologies",
+          "children": [],
+          "visual_hint": "tribal star map"
+        },
+        {
+          "node": "Visual: Sumerian zero evolution timeline",
+          "children": [],
+          "visual_hint": "clay tablet progression"
+        }
+      ],
+      "visual_hint": "ruins under starry sky"
+    },
+    {
+      "node": "Calendar Systems",
+      "children": [
+        {
+          "node": "Fact: Gregorian reform and zero-year debates",
+          "children": [],
+          "visual_hint": "papal bull document"
+        },
+        {
+          "node": "Research: How Hindu calendars handle shunya (zero)",
+          "children": [],
+          "visual_hint": "Vedic mandala"
+        },
+        {
+          "node": "Fact: Julian Day Number starts at zero epoch",
+          "children": [],
+          "visual_hint": "astronomical chart"
+        },
+        {
+          "node": "Research: Islamic Hijri calendar's zero point significance",
+          "children": [],
+          "visual_hint": "crescent moon phase"
+        },
+        {
+          "node": "Fact: Mayan zero day as creation myth start",
+          "children": [],
+          "visual_hint": "Popol Vuh illustration"
+        },
+        {
+          "node": "Visual: Global calendars converging at zero",
+          "children": [],
+          "visual_hint": "spiral timeline wheel"
+        }
+      ],
+      "visual_hint": "ancient sundial at midnight"
+    },
+    {
+      "node": "Mystical Concepts",
+      "children": [
+        {
+          "node": "Fact: Shunya in Buddhism as emptiness leading to enlightenment",
+          "children": [],
+          "visual_hint": "zen circle (enso)"
+        },
+        {
+          "node": "Research: Kabbalistic Ain Soph (endless zero)",
+          "children": [],
+          "visual_hint": "Tree of Life diagram"
+        },
+        {
+          "node": "Fact: Tao as the void from which all emerges",
+          "children": [],
+          "visual_hint": "yin-yang in black hole"
+        },
+        {
+          "node": "Research: Sufi concept of fana (annihilation to zero)",
+          "children": [],
+          "visual_hint": "whirling dervish"
+        },
+        {
+          "node": "Fact: Zero as divine origin in Hermetic traditions",
+          "children": [],
+          "visual_hint": "alchemical ouroboros"
+        },
+        {
+          "node": "Visual: Mandala dissolving into singularity",
+          "children": [],
+          "visual_hint": "fractal void"
+        }
+      ],
+      "visual_hint": "cosmic egg cracking open"
+    },
+    {
+      "node": "Pre-Zero Philosophy",
+      "children": [
+        {
+          "node": "Fact: Parmenides on 'what is not' as impossible",
+          "children": [],
+          "visual_hint": "Greek temple ruins"
+        },
+        {
+          "node": "Research: Aristotle's rejection of actual infinity/zero",
+          "children": [],
+          "visual_hint": "ancient scroll"
+        },
+        {
+          "node": "Fact: Nyaya school debates on shunya in Indian logic",
+          "children": [],
+          "visual_hint": "debating sages"
+        },
+        {
+          "node": "Research: Pre-Socratic views on the void",
+          "children": [],
+          "visual_hint": "atomist model"
+        },
+        {
+          "node": "Fact: Confucian harmony emerging from balanced zero-state",
+          "children": [],
+          "visual_hint": "I Ching hexagrams"
+        },
+        {
+          "node": "Visual: Philosophy tree rooted in nothingness",
+          "children": [],
+          "visual_hint": "ancient thinker silhouette"
+        }
+      ],
+      "visual_hint": "cave shadows on wall"
+    },
+    {
+      "node": "Mathematical History",
+      "children": [
+        {
+          "node": "Fact: Brahmagupta formalized zero arithmetic in 628 CE",
+          "children": [],
+          "visual_hint": "Sanskrit manuscript"
+        },
+        {
+          "node": "Research: Fibonacci's introduction of zero to Europe",
+          "children": [],
+          "visual_hint": "Liber Abaci page"
+        },
+        {
+          "node": "Fact: Al-Khwarizmi's algorithms incorporating zero",
+          "children": [],
+          "visual_hint": "Arabic numerals"
+        },
+        {
+          "node": "Research: Discovery of zero as number vs placeholder",
+          "children": [],
+          "visual_hint": "number line evolution"
+        },
+        {
+          "node": "Fact: Modern set theory and empty set as zero",
+          "children": [],
+          "visual_hint": "Venn diagram empty"
+        },
+        {
+          "node": "Visual: History of zero glyph transformations",
+          "children": [],
+          "visual_hint": "dot to circle animation"
+        }
+      ],
+      "visual_hint": "abacus with zero beads"
+    },
+    {
+      "node": "Technological Applications",
+      "children": [
+        {
+          "node": "Fact: Binary code founded on 0 and 1",
+          "children": [],
+          "visual_hint": "circuit board"
+        },
+        {
+          "node": "Research: Zero-knowledge proofs in cryptography",
+          "children": [],
+          "visual_hint": "locked padlock"
+        },
+        {
+          "node": "Fact: Null in programming as modern zero concept",
+          "children": [],
+          "visual_hint": "code editor screen"
+        },
+        {
+          "node": "Research: Quantum vacuum and zero-point energy",
+          "children": [],
+          "visual_hint": "particle collider"
+        },
+        {
+          "node": "Fact: AI neural nets initializing with near-zero weights",
+          "children": [],
+          "visual_hint": "neural network graph"
+        },
+        {
+          "node": "Visual: Zero in blockchain genesis block",
+          "children": [],
+          "visual_hint": "blockchain chain"
+        }
+      ],
+      "visual_hint": "digital void with glowing code"
+    },
+    {
+      "node": "Manifesto",
+      "children": [
+        {
+          "node": "Fact: Zero as reset for humanity's next cycle",
+          "children": [],
+          "visual_hint": "phoenix rising"
+        },
+        {
+          "node": "Research: How embracing zero dissolves modern illusions?",
+          "children": [],
+          "visual_hint": "breaking chains"
+        },
+        {
+          "node": "Fact: Manifesto core: From fullness to emptiness and back",
+          "children": [],
+          "visual_hint": "infinity loop"
+        },
+        {
+          "node": "Research: Zero as ethical foundation for AI alignment",
+          "children": [],
+          "visual_hint": "balanced scales"
+        },
+        {
+          "node": "Fact: Call to action: Become the leap from zero",
+          "children": [],
+          "visual_hint": "frog jumping galaxy"
+        },
+        {
+          "node": "Visual: M99-inspired cosmic declaration",
+          "children": [],
+          "visual_hint": "spiral galaxy manifesto"
+        }
+      ],
+      "visual_hint": "burning scroll in void"
+    },
+    {
+      "node": "Future Horizons (New Branch v0.01)",
+      "children": [
+        {
+          "node": "Research: Zero in AGI consciousness models?",
+          "children": [],
+          "visual_hint": "neural singularity"
+        },
+        {
+          "node": "Fact: Climate reset metaphors using zero baseline",
+          "children": [],
+          "visual_hint": "earth from space"
+        },
+        {
+          "node": "Visual: Multiverse branching from zero point",
+          "children": [],
+          "visual_hint": "parallel universes"
+        },
+        {
+          "node": "Research: Post-zero economics (resource = 0 waste)",
+          "children": [],
+          "visual_hint": "circular economy diagram"
+        },
+        {
+          "node": "Fact: Zero as meditation endpoint across traditions",
+          "children": [],
+          "visual_hint": "lotus in void"
+        },
+        {
+          "node": "Action: Build the first Zero Protocol",
+          "children": [],
+          "visual_hint": "blueprint scroll"
+        }
+      ],
+      "visual_hint": "futuristic horizon at dawn"
+    }
+  ],
+  "visual_hint": "black hole singularity with emerging light"
+}
